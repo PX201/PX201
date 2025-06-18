@@ -48,7 +48,7 @@ I'm a software engineer with a BS in Computer Engineering, driven by curiosity a
 ## 🚀 Featured Projects
 
 ### [Library Management System](https://github.com/PX201/library-management-system-frontend/wiki)
-**Tech Stack**: Java, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL, Mail API, Maven  
+**Tech Stack**: Java, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL, Mail API, Maven, ReactJS, Bootstrap
 - A system for librarians to manage borrowers' transactions.
 - Features include authentication, account recovery, and database management.
 
@@ -79,7 +79,7 @@ I'm a software engineer with a BS in Computer Engineering, driven by curiosity a
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiman-lahmamsi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=firefox&logoColor=white)](https://aimanlahmamsi.glitch.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=firefox&logoColor=white)](https://www.lahmamsidev.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aymanlahmamsi@gmail.com)
 
 

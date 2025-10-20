@@ -1,21 +1,3 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**PX201/PX201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi there! 👋 I'm Aiman Lahmamsi
 
 I'm a software engineer with a BS in Computer Engineering, driven by curiosity and a passion for solving real-world problems with technology. I specialize in building efficient backend systems, intuitive frontends, and full-stack applications using modern tools and frameworks.
@@ -47,22 +29,28 @@ I'm a software engineer with a BS in Computer Engineering, driven by curiosity a
 
 ## 🚀 Featured Projects
 
-### [Library Management System](https://github.com/PX201/library-management-system-frontend/wiki)
+### 🏋️‍♂️ [Workout Tracker](https://github.com/PX201/workout-tracker-fitstack)
+**Teck Stack**: Java, Spring Boot, Spring Security (JWT), MySQL, ReactJS, Chart.js, React-Body-Heatmap, Docker, AWS EC2
+- A full-stack web application that helps users track workouts, log routines, and visualize progress with intuitive charts and heatmaps.
+- Features include JWT authentication, admin dashboard, routine templates, and log-based performance analytics.
+- Deployed using Docker and AWS EC2 for scalability and production readiness.
+
+### 📚 [Library Management System](https://github.com/PX201/library-management-system-frontend/wiki)
 **Tech Stack**: Java, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL, Mail API, Maven, ReactJS, Bootstrap
 - A system for librarians to manage borrowers' transactions.
 - Features include authentication, account recovery, and database management.
 
-### [Brick Breaker Game](https://github.com/PX201/Brick_Breaker)
+### 🧱 [Brick Breaker Game](https://github.com/PX201/Brick_Breaker)
 **Tech Stack**: Java, Swing  
 - Classic arcade game with smooth mechanics and customizable difficulty.
 - Designed with an intuitive UI using Java Swing.
 
-### [URL Shortener API](https://github.com/PX201/url-shortener-api)
+### 🔗 [URL Shortener API](https://github.com/PX201/url-shortener-api)
 **Tech Stack**: Java, Spring Boot, MySQL, Apache Commons Codec  
 - A RESTful API for generating and managing short URLs.
 - Includes optional expiration dates and custom short URL support.
 
-### [Recipe Finder Web App](https://recipe-finder-abaa6.web.app/)
+### 🍳 [Recipe Finder Web App](https://recipe-finder-abaa6.web.app/)
 **Tech Stack**: React, Firebase, JavaScript, Axios, Airtable
 - A user-friendly web app for finding recipes based on ingredients.
 - Includes Firebase-based authentication and real-time database.
